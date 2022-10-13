@@ -1,0 +1,28 @@
+{
+  "name": "w3st",
+  "version": "1.0.0",
+  "description": "Upload the images to web3 storage to get baseurl for nft minting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ad-h0c/w3sT.git"
+  },
+  "keywords": [
+    "nft",
+    "web3storage",
+    "ipfs",
+    "filecoin",
+    "react",
+    "parcel",
+    "netlify"
+  ],
+  "author": "Ad-h0c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ad-h0c/w3sT/issues"
+  },
+  "homepage": "https://github.com/Ad-h0c/w3sT#readme"
+}
